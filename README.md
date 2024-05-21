@@ -1,1 +1,1 @@
-# bootstrapProject
+# bootstrap project is available
